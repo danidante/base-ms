@@ -1,0 +1,20 @@
+/target/
+.settings/
+.classpath
+.project
+/bin/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+#IntelliJ files
+.sts4-cache/
+.idea
+MP-BaseMS.iml
+
